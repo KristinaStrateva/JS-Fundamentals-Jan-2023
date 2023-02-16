@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: tomato;
+}
+
+p {
+    font-family: 'Gill Sans';
+    font-size: 23px;
+}
+
+p.blueParagraph {
+    color: blue;
+}
+
+p.greenParagraph {
+    color: lime;
+}
